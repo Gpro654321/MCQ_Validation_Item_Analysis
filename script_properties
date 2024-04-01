@@ -1,0 +1,8 @@
+//The string id of the google drive folder where the item analysis report will be saved
+mcqAnalysisFolder
+
+//The number of options that an Multiple choice question has eg. 4
+noOfOptions
+
+//The string id of the google sheet which contains the student responses
+sheetId
