@@ -1,5 +1,5 @@
 # MCQ_Validation_Item_Analysis
-An automated validation of the Multiple choice questions (item analysis) based on difficulty index, Discrimination Index and Distractor efficiency
+An automated google app script based validation of the Multiple choice questions (item analysis) based on difficulty index, Discrimination Index and Distractor efficiency
 The item analysis of multiple choice questions (MCQs) is an essential tool that can provide input on validity and reliability of items. It helps to identify items which can be revised or discarded, thus building a quality MCQ bank (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7873707/)
 
 
